@@ -7,6 +7,8 @@
 
 # This is a simple calculator which uses Stack and polish notations for calculating!
 
+# Ignore all spelling mistakes ✌
+
 ## Example
 
 ![Calculator CLI Example](example_2.png)
