@@ -7,7 +7,12 @@
 
 # This is a simple calculator which uses Stack and polish notations for calculating!
 
-## All the major functions which you see are in the cli_lib. <br> It is custom module, made by myself!
+## Example
+
+![Calculator CLI Example](example_2.png)
+<br>
+<br>
+![Calculator CLI Example](example.png)
 
 ## Requirements:
 
