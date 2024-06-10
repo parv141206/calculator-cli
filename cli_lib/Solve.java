@@ -33,7 +33,7 @@ public class Solve {
     /**
      * Values stack stores the evaluation during each step.
      * Theoretically, at the end of the evaluation, the Values stack will contain
-     * the final answere meanwhile Operators stack will be empty.
+     * the final answer meanwhile Operators stack will be empty.
      */
     Stack<Double> Values = new Stack<>();
 
@@ -62,7 +62,7 @@ public class Solve {
 
         /*
          * As stated before, after all the evaluation is completed, theoretically , if
-         * the input was valid, the final answere must be stored at the TOP of the
+         * the input was valid, the final answer must be stored at the TOP of the
          * Values stack.
          * And thus, we return it...
          * Though, if stack is not empty, we have to perform POP for each operator which

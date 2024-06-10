@@ -42,8 +42,8 @@ public class InputOutput {
         }
     }
 
-    public static void output(Double answere) {
-        System.out.print("\u001B[34m\u001B[1mAnswere -> \u001B[0m" + answere);
+    public static void output(Double answer) {
+        System.out.print("\u001B[34m\u001B[1manswer -> \u001B[0m" + answer);
         System.out.println();
     }
 
