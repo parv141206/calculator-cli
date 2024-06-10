@@ -11,10 +11,10 @@
 
 ## Example
 
-![Calculator CLI Example](example_2.png)
-<br>
-<br>
 ![Calculator CLI Example](example.png)
+<br>
+<br>
+![Calculator CLI Example](example_2.png)
 
 ## Requirements:
 
